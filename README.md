@@ -8,7 +8,7 @@
    Si aún no tienes instalado Visual Studio Code en tu sistema, puedes descargarlo gratuitamente desde [este enlace](https://code.visualstudio.com/).
 
 2. **Clonar o descargar esta carpeta:**
-   - **Clonar el repositorio:** Si esta carpeta está en un repositorio de Git, puedes clonarlo utilizando el comando `git clone <URL_del_repositorio>` en tu terminal.
+   - **Clonar el repositorio:** Si esta carpeta está en un repositorio de Git, puedes clonarlo utilizando el comando `git clone(https://github.com/joseM-bit/MicroProyectoTarea/tree/main)` en tu terminal.
    - **Descargar como archivo ZIP:** Si prefieres no utilizar Git, puedes descargar esta carpeta como un archivo ZIP haciendo clic en el botón verde "Code" en la parte superior derecha de esta página y seleccionando "Download ZIP".
 
 3. **Abrir la carpeta en Visual Studio Code:**
