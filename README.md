@@ -16,5 +16,3 @@
 
 4. **Comenzar a trabajar:**
    ¡Ahora estás listo/a para empezar a trabajar en esta carpeta! Si tienes alguna pregunta o problema, no dudes en contactarme.
-
-¡Disfruta programando en Visual Studio Code!
