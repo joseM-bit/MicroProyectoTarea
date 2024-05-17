@@ -1,4 +1,1 @@
-sudo apt-get update
-sudo apt install python3-tk
-Usuario: admin
-Contraseña: admin
+install tk
